@@ -1,0 +1,5 @@
+/example
+/build
+/dist
+/dynamic_config.egg-info
+.pypirc*
